@@ -59,8 +59,8 @@ dotfetch
 
 ## Ibne Nahian
 
-### Hire me for your Web and Automation projects
+### Hire me for your CRO + Web projects
 
-- #### [Portfolio](https://evilprince2009.netlify.app/)
-- #### [LinkedIn](https://www.linkedin.com/in/nahiandev/)
-- #### [Upwork](https://www.upwork.com/freelancers/~01ded0be5baccfa296)
+- #### [Portfolio](https://ntack.co/about)
+- #### [LinkedIn](https://nstack.co/)
+- #### [X](https://x.com/nahiancdx)
