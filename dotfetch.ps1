@@ -3,7 +3,7 @@
 .GUID 1c26142a-da43-4125-9d70-97555cbb1752
 .DESCRIPTION DotFetch is a command-line system information utility for Windows written in PowerShell.
 .AUTHOR nahiandev
-.PROJECTURI https://github.com/nahiandev/DotFetch
+.PROJECTURI https://github.com/nahiancdx/DotFetch
 .COMPANYNAME
 .COPYRIGHT
 .TAGS
@@ -473,7 +473,7 @@ if ($logoctr -lt $img.Count) {
 write-output ''
 
 # Compatible with both Windows PowerShell & PowerShell Core
-# Author: Ibne Nahian (@nahiandev)
+# Author: Ibne Nahian (@nahiancdx)
 #
 # ___ ___  ___
 # | __/ _ \| __|
